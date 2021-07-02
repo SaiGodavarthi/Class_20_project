@@ -30,7 +30,7 @@ brushImg = loadAnimation("brush.png");
 gymImg = loadAnimation("gym1.png","gym2.png");
 eatImg = loadAnimation("eat1.png","eat2.png");
 bathImg = loadAnimation("bath1.png","bath2.png");
-moveImg = loadAnimation("move.png","move1.png");
+moveImg = loadAnimation("move.png","move1.png","move.png");
 
 }
 
